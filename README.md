@@ -131,7 +131,7 @@ Available providers: ['TensorrtExecutionProvider', 'CUDAExecutionProvider', 'CPU
 ```
 
 `TensorrtExecutionProvider`がインストールされているのでOKです。
-（もしからしたら`CUDAExecutionProvider`も必須かも... インストールされているのでいいですが。）
+（もしかしたら`CUDAExecutionProvider`も必須かも... インストールされているのでいいですが。）
 
 ### torchとtransformersのインストール
 
