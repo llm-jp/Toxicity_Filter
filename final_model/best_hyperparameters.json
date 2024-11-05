@@ -1,0 +1,1 @@
+{"warmup_steps": 36, "adam_epsilon": 6.872617938926077e-07, "learning_rate": 1.1040379289202765e-05, "batch_size": 16, "num_train_epochs": 97, "weight_decay": 0.009773622617682035}
